@@ -1,5 +1,3 @@
-<img width="1514" height="551" alt="D1963EC1-6925-4627-AF71-203DEDB8E257_1_201_a" src="https://github.com/user-attachments/assets/cf703015-f478-4ebf-a218-7653db17c3d8" /><div align="center">
-
 # Hi, I'm Nattiya 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Full+Stack+Developer;Laravel+Developer;AI+Vision+%26+Chatbot;Frontend+Developer" />
