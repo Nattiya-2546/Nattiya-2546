@@ -1,4 +1,4 @@
-Hi, I'm Nattiya 👋
+# Hi, I'm Nattiya 👋
 
 🎓 Information Technology Student at Khon Kaen University
 
