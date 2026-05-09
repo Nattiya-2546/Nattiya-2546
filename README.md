@@ -9,7 +9,6 @@
 
 * UI/UX Design
 * Front-end Development
-* Laravel Development
 * AI Vision & Chatbot
 
 🌱 Currently learning:
