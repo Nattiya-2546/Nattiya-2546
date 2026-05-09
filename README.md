@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Nattiya 👋
 
-<!--
-**Nattiya-2546/Nattiya-2546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at Khon Kaen University
 
-Here are some ideas to get you started:
+💻 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- UI/UX Design
+- Front-end
+- AI Vision & Chatbot
+
+🛠 Tech Stack
+* Laravel
+* PHP
+* MySQL
+* Python
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+* Figma
+* Photoshop
+* Adobe XD
+
+🌿 Featured Project
+- Smart Plant Marketplace Platform with AI Vision & Chatbot
+- Condo Booking
+- SOMITRA (Community App)
+- Cosmetics Web App
+- Tomato Book - Mobile App
+- POS
+
+✨ Passionate about creating user-friendly and modern web applications.
