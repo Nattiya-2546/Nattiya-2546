@@ -1,21 +1,14 @@
 # Hi, I'm Nattiya 👋
 ---
 
-## 🌸 About Me
+##  About Me
 
 🎓 Information Technology Student at Khon Kaen University
 
-💻 Passionate about:
-
+Passionate about:
+* System Analyst
 * UI/UX Design
 * Front-end Development
-* AI Vision & Chatbot
-
-🌱 Currently learning:
-
-* Full Stack Development
-* Advanced UI Design
-* Python for AI
 
 ---
 
